@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1738453270 source:c:\users\erick\desktop\paralela\actividad7\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<omp.h>
+
